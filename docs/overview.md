@@ -275,3 +275,15 @@ https://forms.gle/ydBBk2ri9Ph61hnJA
 * Automatizar validações de qualidade
 * Adotar observabilidade e lineage
 * Reduzir dependência de processos manuais
+
+
+----------
+
+### Links Adicionais
+
+https://learn.microsoft.com/pt-pt/azure/data-factory/continuous-integration-delivery
+
+https://learn.microsoft.com/en-us/azure/data-factory/continuous-integration-delivery-improvements#continuous-deployment-improvements
+
+https://learn.microsoft.com/en-us/training/modules/operationalize-azure-data-factory-pipelines/?source=recommendations
+
