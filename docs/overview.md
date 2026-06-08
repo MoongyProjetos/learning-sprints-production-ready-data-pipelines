@@ -251,12 +251,27 @@ Pergunta honesta:
 * CI/CD implementado?
 * Testes automatizados?
 * Qualidade de dados validada?
-* Monitorização ativa?
+* Monitoria ativa?
 * Auditoria e lineage disponíveis?
+
+
+### Prática:
+
+#### DataOps com SQLServer
+
+https://jonatasafonso.visualstudio.com/learning-sprints-production-ready-data-pipelines
+
+
+#### DataOps com Fabric
+
+https://learn.microsoft.com/pt-br/training/paths/manage-microsoft-fabric-environment/
+
+https://microsoftlearning.github.io/mslearn-fabric/Instructions/Labs/21-implement-cicd.html
+
 
 ### Quiz
 
-https://forms.gle/ydBBk2ri9Ph61hnJA
+https://forms.gle/EXTSHLUGS8zTdvJV7
 
 ---
 
@@ -275,7 +290,7 @@ https://forms.gle/ydBBk2ri9Ph61hnJA
 * Automatizar validações de qualidade
 * Adotar observabilidade e lineage
 * Reduzir dependência de processos manuais
-
+   
 
 ----------
 
