@@ -262,12 +262,24 @@ Pergunta honesta:
 https://jonatasafonso.visualstudio.com/learning-sprints-production-ready-data-pipelines
 
 
+##### CI
+![alt text](image.png)
+
+##### CD
+
+![alt text](image-1.png)
+
+
 #### DataOps com Fabric
+![alt text](full-pipeline-new.gif)
+
 
 https://learn.microsoft.com/pt-br/training/paths/manage-microsoft-fabric-environment/
 
 https://microsoftlearning.github.io/mslearn-fabric/Instructions/Labs/21-implement-cicd.html
 
+
+https://learn.microsoft.com/en-us/fabric/cicd/deployment-pipelines/intro-to-deployment-pipelines?tabs=new-ui
 
 ### Quiz
 
