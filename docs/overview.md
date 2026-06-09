@@ -274,6 +274,9 @@ https://jonatasafonso.visualstudio.com/learning-sprints-production-ready-data-pi
 ![alt text](full-pipeline-new.gif)
 
 
+![alt text](image-2.png)
+
+
 https://learn.microsoft.com/pt-br/training/paths/manage-microsoft-fabric-environment/
 
 https://microsoftlearning.github.io/mslearn-fabric/Instructions/Labs/21-implement-cicd.html
